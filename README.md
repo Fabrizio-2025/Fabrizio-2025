@@ -37,8 +37,10 @@ Welcome to my GitHub profile! I'm an enthusiastic and proactive student of Infor
 ### Goals
 I am currently looking for a position as a Frontend or Backend Web Developer where I can take on challenges and continue to grow professionally. As a leader, I can identify business rules and guide a team to successfully achieve them. I aim to find a role that offers opportunities for continuous learning and development.
 
-## Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fabriziobc2020&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/fabriziobc2020)
+## My Spotify
+<a href="https://open.spotify.com/user/fabriziobc2020" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fabriziobc2020&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
+</a>
 
 <!-- Links -->
 [website]: https://portafolio-2025.web.app/
