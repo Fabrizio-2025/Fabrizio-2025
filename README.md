@@ -1,9 +1,9 @@
 ## Hi, [Fabrizio][website] here! 👋
 [![Fabrizio Barra](https://img.shields.io/badge/LinkedIn-Fabrizio%20Barra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-barra-b33356170/)
-<div style="display: flex;align-items: center;justify-content: center;margin-bottom: 1vh;" >
-<img alt="Coder GIF" height=30% width=60% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-</div>
 
+<div style="display: flex; justify-content: center; margin-bottom: 1vh;">
+  <img alt="Coder GIF" height="30%" width="60%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</div>
 
 Welcome to my GitHub profile! I'm an enthusiastic and proactive student of Information Systems Engineering, currently in my 9th semester. I am passionate about learning from the basics to build a solid foundation that allows me to master more complex concepts. I enjoy working on projects that present challenges and help me grow professionally.
 
@@ -38,11 +38,11 @@ Welcome to my GitHub profile! I'm an enthusiastic and proactive student of Infor
 I am currently looking for a position as a Frontend or Backend Web Developer where I can take on challenges and continue to grow professionally. As a leader, I can identify business rules and guide a team to successfully achieve them. I aim to find a role that offers opportunities for continuous learning and development.
 
 ## My Spotify
-<a href="https://open.spotify.com/user/fabriziobc2020" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fabriziobc2020&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
-</a>
+<div style="display: flex; justify-content: center;">
+  <a href="https://open.spotify.com/user/fabriziobc2020" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fabriziobc2020&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
+  </a>
+</div>
 
 <!-- Links -->
 [website]: https://portafolio-2025.web.app/
-
-
