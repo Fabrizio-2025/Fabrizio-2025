@@ -2,7 +2,7 @@
 [![Fabrizio Barra](https://img.shields.io/badge/LinkedIn-Fabrizio%20Barra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-barra-b33356170/)
 
 <div style="display: flex; justify-content: center; margin-bottom: 1vh;">
-  <img alt="Coder GIF" height="30%" width="60%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+  <img alt="Coder GIF" height="20%" width="40%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </div>
 
 Welcome to my GitHub profile! I'm an enthusiastic and proactive student of Information Systems Engineering, currently in my 9th semester. I am passionate about learning from the basics to build a solid foundation that allows me to master more complex concepts. I enjoy working on projects that present challenges and help me grow professionally.
