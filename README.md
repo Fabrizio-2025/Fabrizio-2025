@@ -1,5 +1,7 @@
 ## Hi, [Fabrizio][website] here! 👋
 [![Fabrizio Barra](https://img.shields.io/badge/LinkedIn-Fabrizio%20Barra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-barra-b33356170/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B51991204854-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51991204854)
+
 
 <div style="display: flex; justify-content: center; margin-bottom: 1vh;">
   <img alt="Coder GIF" height="20%" width="40%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
