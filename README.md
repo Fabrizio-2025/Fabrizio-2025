@@ -46,12 +46,16 @@ Welcome to my GitHub profile! I'm an enthusiastic and proactive student of Infor
 </div>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrizio-2025&layout=compact">
 
-### Goals
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" > Goals
 I am currently looking for a position as a Frontend or Backend Web Developer where I can take on challenges and continue to grow professionally. As a leader, I can identify business rules and guide a team to successfully achieve them. I aim to find a role that offers opportunities for continuous learning and development.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabrizio-2025&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Fabrizio B." /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-### My Spotify
+
+### My <img align="center" alt="GIF" height="140px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <div style="display: flex; justify-content: center;">
   <a href="https://open.spotify.com/user/fabriziobc2020" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fabriziobc2020&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
