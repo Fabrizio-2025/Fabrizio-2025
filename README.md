@@ -1,6 +1,12 @@
-## Hi, [Fabrizio][website] here! 👋
+## Hi, [Fabrizio][website] here! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+</p>
+
 [![Fabrizio Barra](https://img.shields.io/badge/LinkedIn-Fabrizio%20Barra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-barra-b33356170/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B51991204854-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51991204854)
+<img src="http://views.whatilearened.today/views/github/Fabrizio-2025/views.svg"/>
 
 
 <div style="display: flex; justify-content: center; margin-bottom: 1vh;">
@@ -9,7 +15,8 @@
 
 Welcome to my GitHub profile! I'm an enthusiastic and proactive student of Information Systems Engineering, currently in my 9th semester. I am passionate about learning from the basics to build a solid foundation that allows me to master more complex concepts. I enjoy working on projects that present challenges and help me grow professionally.
 
-### About Me
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+
 - 🌱 I’m currently learning advanced web development and backend technologies.
 - 👯 I’m looking to collaborate on innovative projects that push the boundaries of technology.
 - 🤔 I’m seeking help with advanced machine learning and data analysis projects.
@@ -35,9 +42,12 @@ Welcome to my GitHub profile! I'm an enthusiastic and proactive student of Infor
   <img class="icon spring" src="https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/icons/spring.png" alt="Spring" style="width: 40px; height: 40px;">
   <img class="icon photoshop" src="https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/icons/photoshop.png" alt="Photoshop" style="width: 40px; height: 40px;">
 </div>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrizio-2025&layout=compact">
 
 ### Goals
 I am currently looking for a position as a Frontend or Backend Web Developer where I can take on challenges and continue to grow professionally. As a leader, I can identify business rules and guide a team to successfully achieve them. I aim to find a role that offers opportunities for continuous learning and development.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabrizio-2025&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Fabrizio B." /></p>
+
 
 ### My Spotify
 <div style="display: flex; justify-content: center;">
