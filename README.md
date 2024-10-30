@@ -24,12 +24,14 @@ Welcome to my GitHub profile! I'm an enthusiastic and proactive student of Infor
 - 📫 How to reach me: Check out my [LinkedIn profile](https://www.linkedin.com/in/fabrizio-barra-b33356170/).
 - ⚡ Fun fact: I have a keen interest in photography and have basic experience with Photoshop, which has given me an appreciation for the impact of images in marketing.
 
-### Skills
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
 - **Frontend Development**: Angular, Vue, React
 - **Backend Development**: SpringBoot (Java)
 - **Other**: Support TI, business model design, basic Photoshop skills
 
-### Tools
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tools
 <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
   <img class="icon angular" src="https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/icons/angular.png" alt="Angular" style="width: 40px; height: 40px;">
   <img class="icon vue" src="https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/icons/vue.png" alt="Vue" style="width: 40px; height: 40px;">
@@ -48,12 +50,14 @@ Welcome to my GitHub profile! I'm an enthusiastic and proactive student of Infor
 I am currently looking for a position as a Frontend or Backend Web Developer where I can take on challenges and continue to grow professionally. As a leader, I can identify business rules and guide a team to successfully achieve them. I aim to find a role that offers opportunities for continuous learning and development.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabrizio-2025&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Fabrizio B." /></p>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ### My Spotify
 <div style="display: flex; justify-content: center;">
   <a href="https://open.spotify.com/user/fabriziobc2020" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fabriziobc2020&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
   </a>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
 </div>
 
 <!-- Links -->
